@@ -14,11 +14,6 @@ i=1;
 Rc=(i+1/4).*a/2;
 Kf=sqrt(4*pi*n)
 Bstar=hbar*Kf./Rc/e;
-gg=e*a*(1+1/4)/2/hbar;
-gg1=e/2/h;
-
-Bi = 0.0323*7;
-Kf = Bi*e*a*(1+1/4)/2/hbar;
 
 COposCF=Bstar+Bhalf; % Geometric resonance minima on nu<1/2 side
 
